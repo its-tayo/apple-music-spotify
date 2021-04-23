@@ -1,0 +1,14 @@
+
+Todo:
+  ☐ Auth
+    ☐ Apple Music: https://developer.apple.com/documentation/applemusicapi/getting_keys_and_creating_tokens
+    ☐ Spotify: https://developer.spotify.com/documentation/general/guides/authorization-guide/
+  ☐ Fetch Lirary
+    ☐ Apple Music: https://developer.apple.com/documentation/applemusicapi/get_all_library_songs
+    ☐ Spotify: https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-users-saved-tracks
+  ☐ Search
+    ☐ Apple Music: https://developer.apple.com/documentation/applemusicapi/search_for_catalog_resources
+    ☐ Spotify: https://developer.spotify.com/documentation/general/guides/authorization-guide/
+  ☐ Create Songs
+    ☐ Apple Music: https://developer.apple.com/documentation/applemusicapi/add_a_resource_to_a_library
+    ☐ Spotify: https://developer.spotify.com/documentation/web-api/reference/#endpoint-save-tracks-user
